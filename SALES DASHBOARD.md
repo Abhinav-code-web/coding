@@ -49,7 +49,7 @@ explore category-level insights to support data-driven decision-making.
 
 ## 1️⃣ Executive Dashboard
 
-![Executive Dashboard](image(4).png)
+![Executive Dashboard](image.png)
 
 ### Features
 
@@ -62,7 +62,7 @@ explore category-level insights to support data-driven decision-making.
 
 ## 2️⃣ Regional Analysis & Forecast Dashboard
 
-![Regional Dashboard](image(5).png)
+![Regional Dashboard](image(1).png)
 
 ### Features
 
