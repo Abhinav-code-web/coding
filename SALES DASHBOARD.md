@@ -62,7 +62,7 @@ explore category-level insights to support data-driven decision-making.
 
 ## 2️⃣ Regional Analysis & Forecast Dashboard
 
-![Regional Dashboard](image(1).png)
+![Regional Dashboard](https://github.com/Abhinav-code-web/coding/blob/IMAGES/image%20(1).png)
 
 ### Features
 
