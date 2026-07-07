@@ -49,7 +49,7 @@ explore category-level insights to support data-driven decision-making.
 
 ## 1️⃣ Executive Dashboard
 
-![Executive Dashboard](image.png)
+![Executive Dashboard](https://github.com/Abhinav-code-web/coding/blob/IMAGES/image.png)
 
 ### Features
 
