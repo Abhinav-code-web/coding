@@ -79,7 +79,7 @@ Interactive Slicers
 
 ### Page 2 -- Product Performance Dashboard
 
-![Product Performance](images/project2-dashboard2.png)
+![Product Performance](https://github.com/Abhinav-code-web/coding/blob/IMAGES/image%20(3).png)
 
 **Highlights** - Product Sales - Category Performance - Top Products -
 Profitability Analysis
