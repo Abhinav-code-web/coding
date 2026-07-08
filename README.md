@@ -1,4 +1,3 @@
-[Combined_README.md](https://github.com/user-attachments/files/29799177/Combined_README.md)
 # 📊 Power BI Portfolio -- Data Analytics Projects
 
 Welcome to my **Power BI Portfolio**. This repository contains two
