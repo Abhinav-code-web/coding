@@ -27,7 +27,7 @@ profitability, regional trends, and future sales forecasts.
 
 #### Executive Dashboard
 
-![Executive Dashboard](images/project1-dashboard1.png)
+![Executive Dashboard](https://github.com/Abhinav-code-web/coding/blob/IMAGES/image.png)
 
 #### Regional Analysis & Forecast
 
