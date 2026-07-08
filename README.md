@@ -1,15 +1,5 @@
 # 📊 Power BI Portfolio -- Data Analytics Projects
 
-```{=html}
-<p align="center">
-```
-`<img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black">`{=html}
-`<img src="https://img.shields.io/badge/DAX-Analytics-blue">`{=html}
-`<img src="https://img.shields.io/badge/Power%20Query-ETL-success">`{=html}
-`<img src="https://img.shields.io/badge/Status-Completed-brightgreen">`{=html}
-```{=html}
-</p>
-```
 ## 👋 Overview
 
 This repository showcases two end-to-end **Power BI** projects
@@ -87,21 +77,21 @@ Interactive Slicers
 
 ------------------------------------------------------------------------
 
-### Page 2 -- Customer Analytics Dashboard
+### Page 2 -- Product Performance Dashboard
 
-![Customer Analytics](images/project2-dashboard2.png)
-
-**Highlights** - Customer Segmentation - Customer Lifetime Value (CLV) -
-Customer Purchase Behaviour - RFM Analysis
-
-------------------------------------------------------------------------
-
-### Page 3 -- Product Performance Dashboard
-
-![Product Performance](images/project2-dashboard3.png)
+![Product Performance](images/project2-dashboard2.png)
 
 **Highlights** - Product Sales - Category Performance - Top Products -
 Profitability Analysis
+
+------------------------------------------------------------------------
+
+### Page 3 -- Customer Analytics Dashboard
+
+![Customer Analytics](images/project2-dashboard3.png)
+
+**Highlights** - Customer Segmentation - Customer Lifetime Value (CLV) -
+Customer Purchase Behaviour - RFM Analysis
 
 ------------------------------------------------------------------------
 
