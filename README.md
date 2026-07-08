@@ -70,7 +70,7 @@ analytics.
 
 ### Page 1 -- Executive Sales Dashboard
 
-![Executive Dashboard](images/project2-dashboard1.png)
+![Executive Dashboard](https://github.com/Abhinav-code-web/coding/blob/IMAGES/image%20(2).png)
 
 **Highlights** - Sales KPIs - Profit & Profit Margin - Sales Overview -
 Interactive Slicers
