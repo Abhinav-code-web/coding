@@ -1,85 +1,132 @@
 # 📊 Power BI Portfolio -- Data Analytics Projects
 
-Welcome to my **Power BI Portfolio**. This repository contains two
-interactive Power BI projects demonstrating business intelligence,
-dashboard design, DAX, Power Query, and data visualization skills.
+```{=html}
+<p align="center">
+```
+`<img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black">`{=html}
+`<img src="https://img.shields.io/badge/DAX-Analytics-blue">`{=html}
+`<img src="https://img.shields.io/badge/Power%20Query-ETL-success">`{=html}
+`<img src="https://img.shields.io/badge/Status-Completed-brightgreen">`{=html}
+```{=html}
+</p>
+```
+## 👋 Overview
+
+This repository showcases two end-to-end **Power BI** projects
+demonstrating skills in **data cleaning, data modeling, DAX, Power
+Query, dashboard design, business intelligence, sales analytics, and
+customer analytics**.
 
 ------------------------------------------------------------------------
 
 # 🚀 Project 1 -- Retail Sales Performance & Predictive Analytics Dashboard
 
-## Overview
+### Project Overview
 
-An interactive dashboard for monitoring retail sales performance,
-profitability, regional trends, and forecasting future sales.
+An executive dashboard built to analyze retail sales performance,
+profitability, regional trends, and future sales forecasts.
 
-### Objectives
+### Business Objectives
 
--   Monitor Sales, Profit, Quantity and Profit Margin
--   Analyze regional and category performance
--   Track monthly trends
--   Forecast future sales
-
-### Tools
-
--   Power BI
--   Power Query
--   DAX
--   Excel
+-   Monitor Total Sales, Profit, Quantity, and Profit Margin
+-   Compare monthly and yearly sales performance
+-   Analyze sales by region and category
+-   Forecast future sales trends
 
 ### Dashboard Preview
 
+#### Executive Dashboard
+
 ![Executive Dashboard](images/project1-dashboard1.png)
+
+#### Regional Analysis & Forecast
 
 ![Regional Analysis](images/project1-dashboard2.png)
 
-### Highlights
+### Key Features
 
--   KPI Cards
--   Regional Analysis
+-   Executive KPI Cards
+-   Interactive Filters & Slicers
+-   Category & Regional Analysis
+-   Geographic Sales Map
 -   Sales Forecasting
--   Geographic Mapping
--   Interactive Filters
+-   Monthly Trend Analysis
+
+### Results Achieved
+
+-   Built an interactive dashboard with executive KPIs.
+-   Created DAX measures for Sales, Profit, Quantity, and Profit Margin.
+-   Enabled dynamic filtering and forecasting for business planning.
 
 ------------------------------------------------------------------------
 
 # 🚀 Project 2 -- Customer Analytics & Sales Intelligence Dashboard
 
-## Overview
+### Project Overview
 
-A customer-focused dashboard for analyzing customer behavior, sales
-performance, profitability, RFM segmentation, CLV, and What-If analysis.
+A multi-page Power BI dashboard focused on customer behavior, sales
+performance, profitability, product insights, and advanced business
+analytics.
 
-### Objectives
+### Business Objectives
 
--   Customer Segmentation
--   Customer Lifetime Value
--   Product Performance
--   Discount What-If Analysis
+-   Perform RFM-based customer segmentation
+-   Calculate Customer Lifetime Value (CLV)
+-   Analyze product and category performance
+-   Simulate pricing strategies using What-If Analysis
+-   Deliver interactive reports for business decision-making
 
-### Tools
+## Dashboard Preview
 
--   Power BI
--   Power Query
--   DAX
+### Page 1 -- Executive Sales Dashboard
 
-### Dashboard Preview
+![Executive Dashboard](images/project2-dashboard1.png)
 
-![Customer Analytics](images/project2-dashboard1.png)
-
-![Sales Insights](images/project2-dashboard2.png)
-
-### Highlights
-
--   RFM Analysis
--   Customer Lifetime Value
--   Drill-through Reports
--   What-If Analysis
--   Interactive Dashboards
+**Highlights** - Sales KPIs - Profit & Profit Margin - Sales Overview -
+Interactive Slicers
 
 ------------------------------------------------------------------------
 
-# 🛠 Skills Demonstrated
+### Page 2 -- Customer Analytics Dashboard
+
+![Customer Analytics](images/project2-dashboard2.png)
+
+**Highlights** - Customer Segmentation - Customer Lifetime Value (CLV) -
+Customer Purchase Behaviour - RFM Analysis
+
+------------------------------------------------------------------------
+
+### Page 3 -- Product Performance Dashboard
+
+![Product Performance](images/project2-dashboard3.png)
+
+**Highlights** - Product Sales - Category Performance - Top Products -
+Profitability Analysis
+
+------------------------------------------------------------------------
+
+### Page 4 -- What-If & Business Insights Dashboard
+
+![Business Insights](images/project2-dashboard4.png)
+
+**Highlights** - What-If Analysis - Discount Simulation - Drill-through
+Reports - Interactive Business Insights
+
+### Results Achieved
+
+-   Designed a four-page Power BI solution for customer and sales
+    analytics.
+-   Implemented RFM Analysis and Customer Lifetime Value calculations.
+-   Developed DAX measures and Power Query transformations for
+    interactive reporting.
+-   Built drill-through reports and What-If analysis to support business
+    decisions.
+-   Delivered dashboards that help identify high-value customers,
+    profitable products, and pricing opportunities.
+
+------------------------------------------------------------------------
+
+# 🛠️ Skills Demonstrated
 
 -   Power BI
 -   DAX
@@ -88,20 +135,25 @@ performance, profitability, RFM segmentation, CLV, and What-If analysis.
 -   Data Modeling
 -   Data Visualization
 -   Dashboard Design
+-   Business Intelligence
 -   Sales Analytics
 -   Customer Analytics
--   Business Intelligence
+-   RFM Analysis
+-   Customer Lifetime Value (CLV)
+-   What-If Analysis
+-   Forecasting
 
 ------------------------------------------------------------------------
 
 # 📄 Resume Highlights
 
--   Developed two end-to-end Power BI dashboards for sales and customer
+-   Developed two end-to-end Power BI business intelligence projects.
+-   Built **6 interactive dashboard pages** featuring KPIs, forecasting,
+    RFM analysis, CLV, drill-through reports, and What-If analysis.
+-   Designed interactive dashboards using DAX, Power Query, and data
+    modeling.
+-   Converted raw business data into actionable insights through visual
     analytics.
--   Created KPI cards, DAX measures, forecasting visuals, and
-    interactive reports.
--   Built dashboards that transform raw business data into actionable
-    insights.
 
 ------------------------------------------------------------------------
 
