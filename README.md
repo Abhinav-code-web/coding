@@ -97,7 +97,7 @@ Customer Purchase Behaviour - RFM Analysis
 
 ### Page 4 -- What-If & Business Insights Dashboard
 
-![Business Insights](images/project2-dashboard4.png)
+![Business Insights](https://github.com/Abhinav-code-web/coding/blob/IMAGES/image%20(5).png)
 
 **Highlights** - What-If Analysis - Discount Simulation - Drill-through
 Reports - Interactive Business Insights
