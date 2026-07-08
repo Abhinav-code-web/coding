@@ -88,7 +88,7 @@ Profitability Analysis
 
 ### Page 3 -- Customer Analytics Dashboard
 
-![Customer Analytics](images/project2-dashboard3.png)
+![Customer Analytics](https://github.com/Abhinav-code-web/coding/blob/IMAGES/image%20(4).png)
 
 **Highlights** - Customer Segmentation - Customer Lifetime Value (CLV) -
 Customer Purchase Behaviour - RFM Analysis
