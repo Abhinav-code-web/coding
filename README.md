@@ -31,7 +31,7 @@ profitability, regional trends, and future sales forecasts.
 
 #### Regional Analysis & Forecast
 
-![Regional Analysis](images/project1-dashboard2.png)
+![Regional Analysis](https://github.com/Abhinav-code-web/coding/blob/IMAGES/image%20(1).png)
 
 ### Key Features
 
